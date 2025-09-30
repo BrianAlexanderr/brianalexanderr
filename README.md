@@ -10,9 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,django,java,postgresql,react,py,mysql,nodejs,pytorch,tensorflow,postman,supabase,opencv)](https://skillicons.dev)
 
 ##### Get in touch with Me:
-[![My Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/brian.alx_/)
-
-
-[![My Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brian-alexander-490ab0319/)
+[![My Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/brian.alx_/)  [![My Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brian-alexander-490ab0319/)
 
 
