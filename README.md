@@ -1,3 +1,5 @@
+![Banner](img/github-header-banner.png)
+
 # 💫 About Me:
 I'm a college student that is passionated about AI and Software Development. I'm currently studying at Binus University majoring Computer Science focused at Intelligence Systems. 
 
