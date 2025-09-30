@@ -4,8 +4,6 @@
 ### I'm a college student that is passionated about AI and Software Development. I'm currently studying at Binus University majoring Computer Science focused at Intelligence Systems. 
 
 ## My Stats
-[![My Stat](https://github-readme-stats.vercel.app/api?username=brianalexanderr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianalexanderr&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
